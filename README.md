@@ -3,15 +3,15 @@
 <h3>How to use it</h3>
 <p>Simply run the setup script :</p>
 <pre>
-	<code>make server && make client</code>
+<code>make server && make client</code>
 </pre>
 <pre>
-	<code>./server</code>
+<code>./server</code>
 </pre>
 <br>
 <br>
 <p>And in another terminal window :</p>
 <pre>
-	<code>./client</code>
+<code>./client</code>
 </pre>
 
